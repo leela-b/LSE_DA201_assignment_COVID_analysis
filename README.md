@@ -12,7 +12,7 @@ A report summarizing the analysis with insights and recommendations. The file na
 
 LSE_DA201_assignment_Report_LeelaGayatri_Bhimaraju
 
-A video presentation , presenting the analysis with workings in python. The file name:
+A video presentation , presenting the analysis with workings in python. If the file does not open in GitHub, it can be viewed by downloading. The file name:
 
 LSE_DA201_assignment_presentation_LeelaGayatri_Bhimaraju
 
